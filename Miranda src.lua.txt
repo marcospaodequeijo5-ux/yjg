@@ -1,6 +1,3 @@
--- deobfuscated by d1rk hub
-
-
 local fenv = getfenv()
 coroutine.yield(true, 1, game)
 coroutine.yield(true, 2, workspace)
